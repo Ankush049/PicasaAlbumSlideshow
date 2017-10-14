@@ -19,6 +19,7 @@ import com.pranks.picasa.album.slideshow.picasaalbumslideshow.imagemanager.Image
 
 public class LoginActivity extends Activity {
 
+    //TODO Add the nav bar on the login activity.
     public static final int PICK_ACCOUNT_REQUEST = 1;
     public static final int REQUEST_AUTHENTICATE = 2;
     private static final String TAG = LoginActivity.class.getCanonicalName();
